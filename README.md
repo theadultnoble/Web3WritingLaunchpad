@@ -1,8 +1,5 @@
 # Web3WritingLaunchpad
 
-Owner: Noble Okafor,
-Tags: Community
-
 This repository is intended to be a guide to breaking into web3 writing as a Technical writer. It will contain both paid and free opportunities offered to the public as a writer, how you can take advantage of them, and how to get started building a career in web3 writing.
 
 ## Writer’s Programs
